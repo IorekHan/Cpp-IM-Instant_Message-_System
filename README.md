@@ -10,7 +10,7 @@ This projects build a IM(Instant Message) system, which is a simple online chatt
 * If you encountered a problem with outtextyx when compiling, please use multibyte character set.
 
 A screen shot of 3 clients with the server.
-https://github.com/IorekHan/Cpp-IM-Instant_Message-_System/blob/main/111.png
+![ScreenShot](https://github.com/IorekHan/Cpp-IM-Instant_Message-_System/blob/main/111.png)
 
 ## Detailed Introduction
 The MT_Client and MT_Server codes allows the server to listen to multiple clients, receiving and boardcasting messages to all clients.
