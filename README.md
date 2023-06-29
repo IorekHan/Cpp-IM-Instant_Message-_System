@@ -1,1 +1,1 @@
-# C++ IM(Instant_Message) System
+# C++ IM(Instant Message) System
