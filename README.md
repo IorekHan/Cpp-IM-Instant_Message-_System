@@ -9,7 +9,8 @@ This projects build a IM(Instant Message) system, which is a simple online chatt
     EasyX (<graphics.h> included)
 * If you encountered a problem with outtextyx when compiling, please use multibyte character set.
 
-A screen shot of 3 clients with the server.
+A screen shot of 3 clients with the server.<br>
+Each client has a window to show chatting history.
 ![ScreenShot](https://github.com/IorekHan/Cpp-IM-Instant_Message-_System/blob/main/111.png)
 
 ## Detailed Introduction
